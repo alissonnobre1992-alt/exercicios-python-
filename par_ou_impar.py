@@ -1,3 +1,4 @@
+from random import randint
 computador = randint(0, 10)
 total = jogador + computador
 
