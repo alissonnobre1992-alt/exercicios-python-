@@ -45,6 +45,11 @@ C) qual é o nome do produto mais barato.
 considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 
 
+
+
+## Exercício Python 72: Crie um programa que tenha uma dupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
+
+
 ## Linguagem
 
 Python
