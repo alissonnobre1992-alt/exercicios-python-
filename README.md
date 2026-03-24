@@ -50,6 +50,18 @@ considere que o caixa possui cédulas de R$50, R$20, R$10 e R$1.
 ## Exercício Python 72: Crie um programa que tenha uma dupla totalmente preenchida com uma contagem por extenso, de zero até vinte. Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extenso.
 
 
+
+
+## Exercício Python 73: Crie uma tupla preenchida com os 20 primeiros colocados da Tabela do Campeonato Brasileiro de Futebol, na ordem de colocação. Depois mostre:
+
+a) Os 5 primeiros times.
+b) Os últimos 4 colocados.
+c) Times em ordem alfabética.
+d) Em que posição está o time da Chapecoense.
+
+
+
+
 ## Linguagem
 
 Python
