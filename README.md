@@ -76,6 +76,11 @@ B) Em que posição foi digitado o primeiro valor 3.
 C) Quais foram os números pares.
 
 
+
+
+## Exercício Python 076: Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência. No final, mostre uma listagem de preços, organizando os dados em forma tabular.
+
+
 ## Linguagem
 
 Python
