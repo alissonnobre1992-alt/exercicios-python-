@@ -123,6 +123,14 @@ A) Quantos números foram digitados.                                            
 ## Exercício Python 096: Faça um programa que tenha uma função chamada área(), que receba as dimensões de um terreno retangular (largura e comprimento) e mostre a área do terreno.
 
 
+
+
+## Exercício Python 097: Faça um programa que tenha uma função chamada escreva(), que receba um texto qualquer como parâmetro e mostre uma mensagem com tamanho adaptável.                                  Ex:                                                                                                                                                                        escreva(‘Olá, Mundo!’) Saída:                                                                                                                          ~~~~~~~~~                                                                                                                                                            Olá, Mundo!                                                                                                                                                          ~~~~~~~~~                    
+
+
+
+
+
 Python
 
 
